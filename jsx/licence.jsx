@@ -119,6 +119,7 @@ Licence.PersonalDetails = React.createClass({
                 mediaUrl={this.props.licence.photoUrl}
                 item={this.props.licence.name}
                 subtitle={this.props.licence.driverNumber}
+								text={this.props.licence.address}
               />
               <MediaListRow item={this.props.licence.dateOfBirth} subtitle='Date of Birth' />
               <MediaListRow item={this.props.licence.dateOfIssue} subtitle='Licence Issue Date' />

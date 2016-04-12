@@ -6,6 +6,7 @@
       "dateOfBirth":"01.01.1971",
       "dateOfIssue":"02.02.1990",
       "dateOfExpiry":"03.03.2030",
+			"address":"89 Opera Gardens, London, W1A 1AA",
 
       "entitlements": [
         {
