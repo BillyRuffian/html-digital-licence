@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# VERSION 2
+# VERSION 3.4
 
 js/browser.min.js
 js/jquery-1.12.0.min.js
@@ -40,6 +40,7 @@ js/moment.js
 js/my-app.js
 js/react-dom.js
 js/react.js
+js/fingerprint2.min.js
 
 jsx/licence.jsx
 
