@@ -47,7 +47,7 @@ var Licence = React.createClass({
   },
 
   componentDidMount: function() {
-    console.log('licence data from remote');
+    console.log('licence data update request');
     $.ajax({
       url: 'api/data.json',
       dataType: 'json',
